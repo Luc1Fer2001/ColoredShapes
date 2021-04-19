@@ -1,0 +1,17 @@
+{
+    "shape": 
+    [
+        {
+            "type": "Cube",
+            "name": "Cubenator"
+        },
+        {
+            "type": "Cylinder",
+            "name": "Cylinderius"
+        },
+        {
+            "type": "Sphere",
+            "name": "Spheroid"
+        }
+    ]
+}
